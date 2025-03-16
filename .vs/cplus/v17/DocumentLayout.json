@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hyeonseok\\cplus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\4.Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:4.Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\3.namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:3.namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\2.iosteam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:2.iosteam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\1.cplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:1.cplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.Data.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\4.Data.cpp",
+              "RelativeDocumentMoniker": "4.Data.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\4.Data.cpp",
+              "RelativeToolTip": "4.Data.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T02:30:56.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.namespace.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\3.namespace.cpp",
+              "RelativeDocumentMoniker": "3.namespace.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\3.namespace.cpp",
+              "RelativeToolTip": "3.namespace.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T01:40:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.iosteam.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\2.iosteam.cpp",
+              "RelativeDocumentMoniker": "2.iosteam.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\2.iosteam.cpp",
+              "RelativeToolTip": "2.iosteam.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T00:34:59.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.cplus.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\1.cplus.cpp",
+              "RelativeDocumentMoniker": "1.cplus.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\1.cplus.cpp",
+              "RelativeToolTip": "1.cplus.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T00:13:20.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
