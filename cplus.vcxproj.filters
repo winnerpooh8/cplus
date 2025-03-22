@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.cplus.cpp">
+    <ClCompile Include="5.string io.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2.iosteam.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3.namespace.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4.Data.cpp">
+    <ClCompile Include="6.basic.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
