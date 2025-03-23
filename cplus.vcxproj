@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="5.string io.cpp" />
     <ClCompile Include="6.basic.cpp" />
+    <ClCompile Include="7.basic2.cpp" />
+    <ClCompile Include="8.basic3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
