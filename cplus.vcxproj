@@ -127,10 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11.newdelete.cpp" />
+    <ClCompile Include="11.참조자연습.cpp" />
+    <ClCompile Include="12.class.cpp" />
     <ClCompile Include="5.string io.cpp" />
     <ClCompile Include="6.basic.cpp" />
     <ClCompile Include="7.basic2.cpp" />
     <ClCompile Include="8.basic3.cpp" />
+    <ClCompile Include="9.reference.cpp" />
+    <ClCompile Include="10.point&amp;reference.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
