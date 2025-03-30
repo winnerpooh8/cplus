@@ -130,12 +130,14 @@
     <ClCompile Include="11.newdelete.cpp" />
     <ClCompile Include="11.참조자연습.cpp" />
     <ClCompile Include="12.class.cpp" />
+    <ClCompile Include="13.basic4.cpp" />
     <ClCompile Include="5.string io.cpp" />
     <ClCompile Include="6.basic.cpp" />
     <ClCompile Include="7.basic2.cpp" />
     <ClCompile Include="8.basic3.cpp" />
     <ClCompile Include="9.reference.cpp" />
     <ClCompile Include="10.point&amp;reference.cpp" />
+    <ClCompile Include="함수연습문제.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

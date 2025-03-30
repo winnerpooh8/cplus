@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\hyeonseok\\cplus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\12.class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:12.class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\11.newdelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:11.newdelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\10.point\u0026reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:10.point\u0026reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\9.reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:9.reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|C:\\hyeonseok\\cplus\\13.basic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FE2542-C5FB-4720-9B1C-9B5DE652619F}|cplus.vcxproj|solutionrelative:13.basic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "12.class.cpp",
-              "DocumentMoniker": "C:\\hyeonseok\\cplus\\12.class.cpp",
-              "RelativeDocumentMoniker": "12.class.cpp",
-              "ToolTip": "C:\\hyeonseok\\cplus\\12.class.cpp",
-              "RelativeToolTip": "12.class.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T02:07:04.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "11.newdelete.cpp",
-              "DocumentMoniker": "C:\\hyeonseok\\cplus\\11.newdelete.cpp",
-              "RelativeDocumentMoniker": "11.newdelete.cpp",
-              "ToolTip": "C:\\hyeonseok\\cplus\\11.newdelete.cpp",
-              "RelativeToolTip": "11.newdelete.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "13.basic4.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\13.basic4.cpp",
+              "RelativeDocumentMoniker": "13.basic4.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\13.basic4.cpp",
+              "RelativeToolTip": "13.basic4.cpp",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:21:28.187Z",
+              "WhenOpened": "2025-03-30T01:43:00.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp",
-              "DocumentMoniker": "C:\\hyeonseok\\cplus\\11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp",
-              "RelativeDocumentMoniker": "11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp",
-              "ToolTip": "C:\\hyeonseok\\cplus\\11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp",
-              "RelativeToolTip": "11.\uCC38\uC870\uC790\uC5F0\uC2B5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\hyeonseok\\cplus\\\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\hyeonseok\\cplus\\\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "RelativeToolTip": "\uD568\uC218\uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwGUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:06:25.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "9.reference.cpp",
-              "DocumentMoniker": "C:\\hyeonseok\\cplus\\9.reference.cpp",
-              "RelativeDocumentMoniker": "9.reference.cpp",
-              "ToolTip": "C:\\hyeonseok\\cplus\\9.reference.cpp",
-              "RelativeToolTip": "9.reference.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T00:56:00.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "10.point\u0026reference.cpp",
-              "DocumentMoniker": "C:\\hyeonseok\\cplus\\10.point\u0026reference.cpp",
-              "RelativeDocumentMoniker": "10.point\u0026reference.cpp",
-              "ToolTip": "C:\\hyeonseok\\cplus\\10.point\u0026reference.cpp",
-              "RelativeToolTip": "10.point\u0026reference.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T00:27:40.635Z",
+              "WhenOpened": "2025-03-30T01:36:08.063Z",
               "EditorCaption": ""
             }
           ]
