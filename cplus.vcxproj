@@ -131,6 +131,8 @@
     <ClCompile Include="11.참조자연습.cpp" />
     <ClCompile Include="12.class.cpp" />
     <ClCompile Include="13.basic4.cpp" />
+    <ClCompile Include="14.class2.cpp" />
+    <ClCompile Include="15.class3.cpp" />
     <ClCompile Include="5.string io.cpp" />
     <ClCompile Include="6.basic.cpp" />
     <ClCompile Include="7.basic2.cpp" />

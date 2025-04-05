@@ -1,5 +1,2 @@
-﻿  함수연습문제.cpp
-C:\hyeonseok\cplus\함수연습문제.cpp(40,7): warning C4552: '%': 식의 결과가 사용되지 않습니다.
-C:\hyeonseok\cplus\함수연습문제.cpp(75,6): warning C4101: 'sec' :참조되지 않은 지역 변수입니다.
-C:\hyeonseok\cplus\함수연습문제.cpp(45,1): error C4716: 'getTime': 값을 반환해야 합니다.
-C:\hyeonseok\cplus\함수연습문제.cpp(85,1): error C4700: 초기화되지 않은 'height' 지역 변수를 사용했습니다.
+﻿  15.class3.cpp
+  cplus.vcxproj -> C:\hyeonseok\cplus\x64\Debug\cplus.exe

@@ -48,6 +48,12 @@
     <ClCompile Include="함수연습문제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14.class2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15.class3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
